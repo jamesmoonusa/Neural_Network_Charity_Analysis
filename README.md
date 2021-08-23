@@ -10,6 +10,11 @@ Help Beks to create a binary classifier that is capable of predicting whether ap
 - 'EIN' & 'NAME' columns are non-beneficial variable that dropped.
 
 ### Compiling, Training, and Evaluating the Model
+- The model input data has 43 features and 25,724 samples, two hidden layers with 80 and 30 neurons respectively.
+- **Sigmoid** is used for output layer since it is a binary classification.
+- To speed up the training, activation function **Relu** used for hidden layers.
+- The model result ![Original](https://github.com/jamesmoonusa/Neural_Network_Charity_Analysis/blob/main/Original%20Model%20Result.PNG)
+-  
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 Were you able to achieve the target model performance?
 What steps did you take to try and increase model performance?
