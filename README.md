@@ -19,4 +19,5 @@ Help Beks to create a binary classifier that is capable of predicting whether ap
 - Increased Epochs to 150. ![150 Epoch](https://github.com/jamesmoonusa/Neural_Network_Charity_Analysis/blob/main/150%20Epoch%20train%20result.PNG)
 
 ## Summary
-The deep learning neural model did not reach 75% of accuracy. Even after add third hidden layer the model did not show significant imporvement. Thus the model is not accurate enough to use. 
+The deep learning neural model did not reach 75% of accuracy. Even after few attemps to increase the model performance as adding third hidden layer, increasing number of neurons and Epochs have insigificant result on the model accuracy.
+So the model might not fit on the performance, alternatly supervised machine learning model might fit on this data becuase we are in a binary classification data.
