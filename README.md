@@ -13,7 +13,10 @@ Help Beks to create a binary classifier that is capable of predicting whether ap
 - The model input data has 43 features and 25,724 samples, two hidden layers with 80 and 30 neurons respectively.
 - **Sigmoid** is used for output layer since it is a binary classification.
 - To speed up the training, activation function **Relu** used for hidden layers.
-- The model result ![Original](https://github.com/jamesmoonusa/Neural_Network_Charity_Analysis/blob/main/Original%20Model%20Result.PNG)
-- To improve the model increased number of neurons. 3 hiddden layers result![3 layers](https://github.com/jamesmoonusa/Neural_Network_Charity_Analysis/blob/main/3rd%20hidden%20layer%20result.PNG)
+- The original model result ![Original](https://github.com/jamesmoonusa/Neural_Network_Charity_Analysis/blob/main/Original%20Model%20Result.PNG)
+- Increaded hidden layer to 3 result.![3 layers](https://github.com/jamesmoonusa/Neural_Network_Charity_Analysis/blob/main/3rd%20hidden%20layer%20result.PNG)
+- Increased Neurons to 100 and 40. ![More neurons](https://github.com/jamesmoonusa/Neural_Network_Charity_Analysis/blob/main/More%20neurons%20result.PNG)
+- Increased Epochs to 150. ![150 Epoch](https://github.com/jamesmoonusa/Neural_Network_Charity_Analysis/blob/main/150%20Epoch%20train%20result.PNG)
 
 ## Summary
+The deep learning neural model did not reach 75% of accuracy. Even after add third hidden layer the model did not show significant imporvement. Thus the model is not accurate enough to use. 
