@@ -14,6 +14,6 @@ Help Beks to create a binary classifier that is capable of predicting whether ap
 - **Sigmoid** is used for output layer since it is a binary classification.
 - To speed up the training, activation function **Relu** used for hidden layers.
 - The model result ![Original](https://github.com/jamesmoonusa/Neural_Network_Charity_Analysis/blob/main/Original%20Model%20Result.PNG)
-- To improve 
+- To improve the model increased number of neurons. 3 hiddden layers result![3 layers](https://github.com/jamesmoonusa/Neural_Network_Charity_Analysis/blob/main/3rd%20hidden%20layer%20result.PNG)
 
 ## Summary
